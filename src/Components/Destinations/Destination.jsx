@@ -6,8 +6,6 @@ import destination3 from './../../assets/dest3.jpg'
 import destination4 from './../../assets/dest4.jpg'
 import destination5 from './../../assets/dest5.jpg'
 import destination6 from './../../assets/dest7.jpg'
-import destination7 from './../../assets/dest7.jpg'
-import destination8 from './../../assets/dest8.jpg'
 
 function Destination() {
   return (
